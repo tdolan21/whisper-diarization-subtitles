@@ -31,14 +31,9 @@ or you can install with docker for quick usage:
 
 ```bash
 docker compose up --build
+docker compose down -v
 ```
 
-To use the docker hub image that is prebuilt:
-
-```bash
-docker pull whisper-diarization-subtitles:latest
-docker run -p 8501:8501 --gpus all whisper-diarization-subtitles:latest
-```
 
 ## Citations
 
