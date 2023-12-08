@@ -4,6 +4,8 @@ This application utilizes OpenAI's Whisper and PyAnnote' Segmentation-3.0 as wel
 
 ![header2.png](assets/header2.png)
 
+CLI available [here](https://github.com/tdolan21/whisper_subtitles)
+
 ## Prerequisites
 
 You must have docker with GPU access enabled.
